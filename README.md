@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @massarG
+- 👀 I’m interested in low cost automation of thermal processes
+- 🌱 I’m currently learning programming and automation
+- 💞️ I’m looking to collaborate on code troubleshooting
+- 📫 How to reach me on gabrieltomazmassardi@gmail.com 
